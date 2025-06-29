@@ -1,0 +1,15 @@
+C:\Users\zerte\OneDrive\Documents\GitHub\LetterBoxed-Solver\solver\bin\Debug\net6.0\solver.exe
+C:\Users\zerte\OneDrive\Documents\GitHub\LetterBoxed-Solver\solver\bin\Debug\net6.0\solver.deps.json
+C:\Users\zerte\OneDrive\Documents\GitHub\LetterBoxed-Solver\solver\bin\Debug\net6.0\solver.runtimeconfig.json
+C:\Users\zerte\OneDrive\Documents\GitHub\LetterBoxed-Solver\solver\bin\Debug\net6.0\solver.dll
+C:\Users\zerte\OneDrive\Documents\GitHub\LetterBoxed-Solver\solver\bin\Debug\net6.0\solver.pdb
+C:\Users\zerte\OneDrive\Documents\GitHub\LetterBoxed-Solver\solver\obj\Debug\net6.0\solver.csproj.AssemblyReference.cache
+C:\Users\zerte\OneDrive\Documents\GitHub\LetterBoxed-Solver\solver\obj\Debug\net6.0\solver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zerte\OneDrive\Documents\GitHub\LetterBoxed-Solver\solver\obj\Debug\net6.0\solver.AssemblyInfoInputs.cache
+C:\Users\zerte\OneDrive\Documents\GitHub\LetterBoxed-Solver\solver\obj\Debug\net6.0\solver.AssemblyInfo.cs
+C:\Users\zerte\OneDrive\Documents\GitHub\LetterBoxed-Solver\solver\obj\Debug\net6.0\solver.csproj.CoreCompileInputs.cache
+C:\Users\zerte\OneDrive\Documents\GitHub\LetterBoxed-Solver\solver\obj\Debug\net6.0\solver.dll
+C:\Users\zerte\OneDrive\Documents\GitHub\LetterBoxed-Solver\solver\obj\Debug\net6.0\refint\solver.dll
+C:\Users\zerte\OneDrive\Documents\GitHub\LetterBoxed-Solver\solver\obj\Debug\net6.0\solver.pdb
+C:\Users\zerte\OneDrive\Documents\GitHub\LetterBoxed-Solver\solver\obj\Debug\net6.0\solver.genruntimeconfig.cache
+C:\Users\zerte\OneDrive\Documents\GitHub\LetterBoxed-Solver\solver\obj\Debug\net6.0\ref\solver.dll
