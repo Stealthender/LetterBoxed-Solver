@@ -16,7 +16,7 @@
     public static char [] getInput() 
     {
         Console.WriteLine("Input sides in format: aaabbbcccddd");
-        char[] allsides = Console.ReadLine().ToLower().ToCharArray(); ;
+        char[] allsides = Console.ReadLine().ToLower().ToCharArray();
         while(validateInput(allsides) == false)
         {
             return getInput();
